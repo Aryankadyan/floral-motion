@@ -1,6 +1,5 @@
 # floral-motion
 <h2>Kado</h2>
--Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
 
 <h2>Description</h2>
 Flower code reels trend
