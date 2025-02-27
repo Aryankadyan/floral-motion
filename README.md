@@ -1,13 +1,14 @@
-# floral-motion
-<h2>Kado</h2>
+# 🌸 Floral Motion - Kado
 
-<h2>Description</h2>
-Flower code reels trend
-<br>
-Responsive Web -- bisa langsung disesuikan di file css --> style.css
-</br>
-<h2>Author</h2>
-<ul>
-<li>Flower Code : Aryan Kadyan</li>
-<li>Index Code: Aryan Kadyan</li>
-</ul>
+## Description  
+**Floral Motion (Kado)** is a **responsive web project** inspired by the **Flower Code Reels trend**. It provides smooth animations and elegant floral-themed visuals, making it aesthetically pleasing and engaging.
+
+## 🌟 Features  
+✅ Beautiful **flower animations**  
+✅ **Responsive design** – easily customizable via `style.css`  
+✅ Inspired by **modern code reels trends**  
+
+## 📌 Installation  
+1. Clone this repository:  
+   ```sh
+   git clone https://github.com/yourusername/floral-motion.git
